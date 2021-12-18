@@ -18,10 +18,10 @@ I'm a graduate in Computer Science and Engineering 🎓 from East West Universit
 ### Profile Visitors 📊 
 <br>
 
-<img align="center" src="https://profile-counter.glitch.me/robinrakibul/count.svg" /> 
+![visitors](https://profile-counter.glitch.me/robinrakibul/count.svg)
 <br><br> 
 
-<img align="center" src="https://user-images.githubusercontent.com/68294944/146646214-1d15aa89-0691-482f-ac5f-f6726542cfcb.gif" /> 
+![giphy](https://user-images.githubusercontent.com/68294944/146646214-1d15aa89-0691-482f-ac5f-f6726542cfcb.gif)
 
 <p align="center">
  💻 My setup <br><br>
