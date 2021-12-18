@@ -15,14 +15,9 @@ I'm a graduate in Computer Science and Engineering 🎓 from East West Universit
 
 <br>
 
-### Profile Visitors 📊 
-<br>
-
-![visitors](https://profile-counter.glitch.me/robinrakibul/count.svg)
-<br><br> 
-
-![giphy](https://user-images.githubusercontent.com/68294944/146646214-1d15aa89-0691-482f-ac5f-f6726542cfcb.gif)
-
+### Profile Visitors 📊  
+<code> <p align="center">  ![visitors](https://profile-counter.glitch.me/robinrakibul/count.svg) </p> </code>
+<code> <p align="center"> ![Work-Fun](https://user-images.githubusercontent.com/68294944/146646731-dfe51419-aeaf-448f-858b-b29df0bc379d.gif) </p> </code>
 <p align="center">
  💻 My setup <br><br>
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
@@ -30,20 +25,16 @@ I'm a graduate in Computer Science and Engineering 🎓 from East West Universit
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <br>
 </p>
-<br><br>
 
 
 ### My GitHub Stats 📊 
-&nbsp;
-
 <img src="https://github-readme-stats.vercel.app/api?username=robinrakibul&show_icons=true&count_private=true&include_all_commits=true&icon_color=D10000&show_owner=true&locale=en" />
 
 
 
 ###  My Contribution Streak 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=robinrakibul&theme=blood&fire=FFBA47)
- 
-&nbsp;
+
 ### 📫 Get in Touch
 <h3 align="center">
   I am at: <br>
@@ -52,8 +43,5 @@ I'm a graduate in Computer Science and Engineering 🎓 from East West Universit
   <a href="https://www.linkedin.com/in/robinrakibul/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.behance.net/robinrakibul"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
 </h3>
-<br>
+<h2 align="center" style="color:red;"> Thank you for visiting! ❤️😇</h2>
 
-<h2 align="center" style="color:red;">
-    <b> Thank you for visiting! ❤️😇</b>
-</h2>
