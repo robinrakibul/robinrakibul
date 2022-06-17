@@ -1,4 +1,4 @@
-# Hello there, I am [Rakibul Hassan Robin](https://linktr.ee/robinrakibul) 👨‍💻:wave:
+# Hello there, I am [Rakibul Hassan Robin](https://robinrakibul.netlify.app/) 👨‍💻:wave:
 ## Glad to see you here! &nbsp;
 
 I'm a graduate in Computer Science and Engineering 🎓 from East West University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently doing web development course from ProgrammingHero.
